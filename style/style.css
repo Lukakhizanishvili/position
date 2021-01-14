@@ -65,4 +65,23 @@ li:nth-child(4){
     bottom: 30px;
     right: 30px
 }
-
+/*start second section*/
+.second-section{
+    background-color: #363E97;
+	padding: 90px 100px;
+}
+.box{
+	position: relative;
+	width: 570px;
+	height: 320px;
+	background-color: white;
+	display: inline-block;
+}
+.box-text{
+	position: absolute;
+    top: 50%;
+    right: 50%;
+    width: 350px;
+    transform: translate(55%,-48%);
+    font-size: 16px;
+}
