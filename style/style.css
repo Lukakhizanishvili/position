@@ -99,3 +99,12 @@ li:nth-child(4){
 .box:last-child{
 	margin-left: 13px;
 }
+.third-section{
+	background-color: #BDCCD4;
+	padding: 0px 100px 90px 100px;
+}
+.third-title{
+  padding: 45px 0px;
+  color: #3D58A6;
+  font-size: 24px;
+}
