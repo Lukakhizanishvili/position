@@ -140,3 +140,43 @@ header{
 section{
 	z-index: 1;
 }
+/*start four-section*/
+.four-section{
+	padding: 0px 100px 30px 100px;
+	background-color: #E6E6E6;
+}
+.four-section-title{
+	padding: 35px 0px;
+	font-size: 24px;
+}
+.four-section-box{
+	position: relative;
+	width: 567px;
+	height: 232px;
+	background-color: #F2F2F2;
+	display: inline-block;
+}
+.four-section-box:last-child{
+	margin-left: 19px
+}
+.four-box-title{
+	position: absolute;
+	color: #3D58A6;
+	top: 15px;
+    left: 20px;
+    font-size: 22px;
+}
+.four-section-logo{
+	position: absolute;
+	top: 48px;
+    left: 48px;
+}
+.four-text{
+	position: absolute;
+	width: 355px;
+	height: 157px;
+	top: 50px;
+	right: 30px;
+	color: #58595B;
+	font-size: 20px;
+}
