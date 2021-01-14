@@ -35,3 +35,6 @@ li:nth-child(4){
 	display: inline-block;
     vertical-align: middle;
 }
+.first-section{
+	background-color: #E6E6E6;
+}
