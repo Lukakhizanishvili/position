@@ -15,3 +15,20 @@
 	display: inline-block;
 	vertical-align: middle;
 }
+.web-links{
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.web-links:after{
+	content: "";
+	display: inline-block;
+	width: 2px;
+	height: 27px;
+	background-color: #363E97;
+	margin: 0px 35px;
+}
+.serch{
+	display: inline-block;
+    vertical-align: middle;
+}
