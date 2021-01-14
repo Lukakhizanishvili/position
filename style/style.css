@@ -1,7 +1,7 @@
 .html-logo{
 	width: 197px;
 	height: 60px;
-	margin: 27px 100px 27px 50px;
+	margin: 27px 48px 27px 0px;
 	display: inline-block;
 	vertical-align: middle;
 }
@@ -37,4 +37,9 @@ li:nth-child(4){
 }
 .first-section{
 	background-color: #E6E6E6;
+	padding: 30px 0px;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
 }
