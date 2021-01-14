@@ -108,3 +108,13 @@ li:nth-child(4){
   color: #3D58A6;
   font-size: 24px;
 }
+.third-box{
+	width: 270px;
+	height: 270px;
+	background-color: #E6E6E6;
+	display: inline-block;
+	margin-right: 19px;
+}
+.third-box:last-child{
+	margin-right: 0px;
+}
