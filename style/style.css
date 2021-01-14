@@ -96,3 +96,6 @@ li:nth-child(4){
 	font-size: 24px;
 	color: #FFFFFF;
 }
+.box:last-child{
+	margin-left: 13px;
+}
